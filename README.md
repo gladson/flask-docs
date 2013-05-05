@@ -1,14 +1,12 @@
-Tradução do Docs do Flask em Português Brasil
-Flask DOCs PT_BR
+Tradução do Docs do Flask para o Português Brasil
 
-Framework Python
-=====
-
-	http://flask.pocoo.org
-
-Projeto de Tradução
+Indice:
 ======
-	http://flask.pocoo.org/docs/
+
+ * [Docs Teste LinuxPro](http://www.linuxpro.com.br/frameworks/flask/)
+ * [Flask Framework](http://flask.pocoo.org)
+ * [Flask Docs](http://flask.pocoo.org/docs/)
+
 
 Instalando o Sphinx
 ======
