@@ -1,6 +1,6 @@
 :orphan:
 
-Doc Flask PT_BR
+Flask DOC PT-BR
 ================
 
 .. image:: _static/logo-full.png
@@ -10,7 +10,7 @@ Doc Flask PT_BR
 Bem-vindo a documentação do Flask. Esta documentação é dividida em
 diferentes partes. Eu recomendo que você começar a trabalhar com
 :ref:`instalação` e, em seguida, dirigir-se a :ref:`quickstart`.
-Além do início rápido, há também uma forma mais detalhada: ref: `tutorial que`
+Além do início rápido, há também uma forma mais detalhada :ref:`tutorial`
 mostra como criar uma aplicação completa (embora pequena) com Flask. se
 você prefere mergulhar os internos do balão, confira
 a :ref:`api` documentação. Padrões comuns são descritos na :ref:`patterns` padrões.
