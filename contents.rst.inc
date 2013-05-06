@@ -1,9 +1,10 @@
-User's Guide
+Guia do Usuário
 ------------
 
-This part of the documentation, which is mostly prose, begins with some
-background information about Flask, then focuses on step-by-step
-instructions for web development with Flask.
+Esta parte da documentação, que é na maior parte em prosa, inicia com algumas
+informações básicas sobre Flask, em seguida, concentra-se instruções passo-a-passo
+para desenvolvimento web com Flask.
+
 
 .. toctree::
    :maxdepth: 2
@@ -31,8 +32,8 @@ instructions for web development with Flask.
 API Reference
 -------------
 
-If you are looking for information on a specific function, class or
-method, this part of the documentation is for you.
+Se você está procurando informações sobre uma função específica, classe ou
+método, esta parte da documentação é para você.
 
 .. toctree::
    :maxdepth: 2
@@ -42,7 +43,7 @@ method, this part of the documentation is for you.
 Additional Notes
 ----------------
 
-Design notes, legal information and changelog are here for the interested.
+Notas de design, informações jurídicas e changelog para os interessados​​.
 
 .. toctree::
    :maxdepth: 2
